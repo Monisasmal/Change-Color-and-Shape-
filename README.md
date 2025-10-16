@@ -20,4 +20,26 @@ Perfect for beginners to understand **DOM manipulation**, **CSS styling**, and *
 - **Styling:** Custom CSS  
 - **Deployment:** GitHub Pages
 
+## 🖼️ Screenshot
+<img width="1318" height="682" alt="image" src="https://github.com/user-attachments/assets/02fb4831-4a6b-4074-918b-ee56aac9508a" />
+
+## 🕹️ How to Use
+
+1. Open the live demo [here](https://monisasmal.github.io/Change-Color-and-Shape-/).
+2. Click the **“Change Color”** button to randomly change the color.
+3. Click the **“Change Shape”** button to switch between shapes.
+4. See the shape update instantly on screen.
+5. Refreshing the page resets everything.
+
+## 🧾 Project Structure
+
+├── index.html # Main structure of the app
+
+├── styles.css # Styles for color and shape
+
+├── script.js # Logic for changing shape and color
+
+└── README.md
+
+
 
